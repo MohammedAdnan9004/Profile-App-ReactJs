@@ -24,7 +24,6 @@ export default function ProfilePage() {
         Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat.
       </p>
 
-      {/* Dotted divider AFTER paragraph */}
       <div className="divider"></div>
     </div>
   );
